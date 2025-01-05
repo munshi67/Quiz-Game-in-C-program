@@ -1,1 +1,1 @@
-# Quiz-Game-in-C-program
+# Quiz-Game-Using-C-Language
